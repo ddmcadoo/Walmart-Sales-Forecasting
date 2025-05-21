@@ -30,7 +30,6 @@ This project analyzes and forecasts weekly sales data from Walmart stores. The g
 
 - Sales fluctuate seasonally, especially around holidays like Thanksgiving and Christmas.
 - Certain stores consistently outperform others in total weekly sales.
-- Temperature and fuel prices may show correlations with shopping behavior.
 
 ## 📌 Next Steps
 
