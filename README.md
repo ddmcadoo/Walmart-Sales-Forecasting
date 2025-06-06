@@ -10,7 +10,7 @@ This project analyzes and forecasts weekly sales data from Walmart stores. The g
 
 ## Dataset
 
-- **Source**: [Walmart Sales Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset) *(or update with your source)*.
+- **Source**: [Walmart Sales Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
 - **Features**:
   - `Store`: Store number
   - `Date`: Weekly date
