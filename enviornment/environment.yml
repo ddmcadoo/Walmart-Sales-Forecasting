@@ -1,0 +1,15 @@
+name: dtsc680
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - pip
+  - pip:
+    - tensorflow==2.9.2
